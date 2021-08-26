@@ -1,0 +1,4 @@
+DATOS BASE DE DATOS
+Usuario: tpo2integrador
+Contraseña: tpo2integrador
+BD: tpo2int
